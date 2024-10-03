@@ -22,6 +22,21 @@
                                 Olá PHP
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=basico&file=html">
+                                Integração HTML
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=basico&file=CSS">
+                                Integração CSS
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=basico&file=PHP">
+                                Comentários PHP
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
